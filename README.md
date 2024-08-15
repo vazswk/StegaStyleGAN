@@ -1,2 +1,2 @@
 # StegaStyleGAN
-The supplementary material for the paper: "StegaStyleGAN: Towards Generic and Practical Generative Image Steganography"
+The code and supplementary material for the paper: "StegaStyleGAN: Towards Generic and Practical Generative Image Steganography"
